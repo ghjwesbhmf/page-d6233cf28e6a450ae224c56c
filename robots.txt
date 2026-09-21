@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adlak.cn/sitemap.xml

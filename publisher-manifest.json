@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b7fdaf13f752c99b4c5b2aa6",
+  "owner": "ghjwesbhmf",
+  "repo": "page-d6233cf28e6a450ae224c56c",
+  "title": "白嫖云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d6233cf28e6a450ae224c56c",
+      "a": "白嫖云",
+      "b": "2027最新官网",
+      "entity": "白嫖云",
+      "brand": "白嫖云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4e78da9f3c98fae10b0fa4cc5eab993620f768ab15ec4d1175d8028524b75b33",
+      "content": {
+        "primary_entity": "白嫖云",
+        "keyword1": "白嫖云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，订阅配置更省心。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "快速开启加速体验",
+          "AI_DESCRIPTION": "，白嫖云提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版与团队版覆盖 IPLC 专线与 VIP 高带宽节点，适合对游戏加速和流媒体解锁有更高要求的用户。",
+          "AI_FEATURES_INTRO": "从套餐差异、设备数量与订阅周期三个角度快速了解。",
+          "AI_FEATURES_TITLE": "选择白嫖云的三个参考点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "基础版适合手机与电脑轻度使用，旗舰版覆盖 IPLC 专线游戏加速，团队版面向多设备协作场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，年付价格分别为 ¥150、¥350、¥850，长期使用可降低月均成本。",
+          "AI_FEATURE_TITLE_1": "套餐流量与设备数",
+          "AI_FEATURE_TITLE_2": "按使用场景选档位",
+          "AI_FEATURE_TITLE_3": "月付与年付对比",
+          "AI_GUIDE_INTRO": "选服务、看要求、配订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "三步配置指南",
+          "AI_HERO_INTRO": "白嫖云提供多档海外加速套餐，覆盖日常浏览、流媒体解锁与游戏专线优化。根据设备数量和月流量选择基础版、旗舰版或团队版，按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备海外加速方案",
+          "AI_HIGHLIGHT_1": "月付低至 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "最高 1000GB 月流量可选",
+          "AI_HIGHLIGHT_3": "IPLC 专线与 VIP 节点支持",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用，旗舰版在流量、设备数与专线加速上更均衡，团队版面向 20 台设备的高带宽需求。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先明确日常设备数量与月流量，再对照基础版、旗舰版、团队版的权益差异锁定目标套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐对操作系统和客户端的适配说明，确认设备系统版本与网络环境满足条件。",
+          "AI_STEP_TEXT_3": "根据设备端对应的客户端文档导入订阅信息，完成节点选择与连接配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "白嫖云海外加速",
+          "AI_FAQ_ANSWER_1": "只看两点：日常月流量多大、要同时连几台设备。流量 100GB 以内且设备不超过 3 台，基础版就够；需要更多流量和设备，再看旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "启动客户端后进入订阅或配置页面，粘贴订阅链接并更新即可。不同客户端操作路径略有差异，可参考对应客户端文档完成导入。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出设备数时可在套餐页面升级到更高档位。",
+          "AI_FAQ_ANSWER_4": "月付适合短期或试用需求，年付总价更低。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，可按预算和使用时长选择。",
+          "AI_FAQ_ANSWER_5": "Wi-Fi 环境下多设备连接时，建议选择旗舰版或团队版，它们提供更多的并发设备数与更高流量额度，能减少切换和限速带来的影响。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "个人用户适合选择哪档套餐？",
+          "AI_FAQ_QUESTION_2": "订阅链接导入客户端要怎么做？",
+          "AI_FAQ_QUESTION_3": "套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "Wi-Fi 环境下多设备连接该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "adlak.cn",
+    "host": "adlak.cn"
+  },
+  "file_hashes": {
+    "index.html": "3c556361386d41e702047c63512673f3ba26c889576c5d7b4991f0059c1f899a",
+    "sitemap.xml": "7e001bd424b8e7a41287cf7f3355fb48f577e445931ed800c3b07861227f56b6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f76bf0e909f55ed80c25e39b36936f8166d785b4632493cfb2dd7452ed6fc196",
+    "robots.txt": "d403e3cd99b4758edce5a93122ac796c3ba825a6ecae091f1eb79d16f9245535",
+    "a92b2ca402fcc24edb0411226e7dfbe3.txt": "b24e465be1872dae04136ef6d27cdef4181970a3e2f1325c7d4f299dc758ee37"
+  },
+  "revision": "0f5086b056d46aed0cc622813b6d93077b5bbf9b959b6bcbb0f3513b0e89cae9"
+}
